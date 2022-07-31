@@ -1,0 +1,76 @@
+{
+ "data": [
+  {
+    "id": 471153408,
+    "name": "chess",
+    "owner": {
+      "login": "bdscampos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73040382?v=4"
+    },
+    "html_url": "https://github.com/bdscampos/chess",
+    "description": "chess app",
+    "stargazers_count": 0,
+    "language": "Java"
+  },
+  {
+    "id": 499886611,
+    "name": "dio-api-collections",
+    "owner": {
+      "login": "bdscampos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73040382?v=4"
+    },
+    "html_url": "https://github.com/bdscampos/dio-api-collections",
+    "description": "Working with collections",
+    "stargazers_count": 0,
+    "language": "Kotlin"
+  },
+  {
+    "id": 499346580,
+    "name": "dio-intro-to-kotlin",
+    "owner": {
+      "login": "bdscampos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73040382?v=4"
+    },
+    "html_url": "https://github.com/bdscampos/dio-intro-to-kotlin",
+    "description": "Intro to Kotlin",
+    "stargazers_count": 0,
+    "language": "Kotlin"
+  },
+  {
+    "id": 499668645,
+    "name": "dio-onebank",
+    "owner": {
+      "login": "bdscampos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73040382?v=4"
+    },
+    "html_url": "https://github.com/bdscampos/dio-onebank",
+    "description": "Dio One Bank",
+    "stargazers_count": 0,
+    "language": "Kotlin"
+  },
+  {
+    "id": 501843982,
+    "name": "Dio-simulador-noticias",
+    "owner": {
+      "login": "bdscampos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73040382?v=4"
+    },
+    "html_url": "https://github.com/bdscampos/Dio-simulador-noticias",
+    "description": "Aplicativo de simulação de notícias",
+    "stargazers_count": 0,
+    "language": "Java"
+  },
+  {
+    "id": 502197903,
+    "name": "dio-simulador-noticias-api",
+    "owner": {
+      "login": "bdscampos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73040382?v=4"
+    },
+    "html_url": "https://github.com/bdscampos/dio-simulador-noticias-api",
+    "description": "simulador noticias",
+    "stargazers_count": 0,
+    "language": "Java"
+  }
+]
+}
